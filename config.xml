@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.scout365.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. КЛИК</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/6e8fad687d16f2aea8772be01dcdf8cd.png" density="xxhdpi" />
         <icon src="res/android/icon/9dc8b0edb56e22aeb0933e3e4bcb610f.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/c5a30e75bf7e7a91590e68c9dbf46672.png" density="port-hdpi"/>
-        <splash src="res/android/screen/ddf29ede2c8558b2b599617d7e0ecbc8.png" density="port-ldpi"/>
-        <splash src="res/android/screen/f21b0c51e528a987f38a7cb149e8a649.png" density="port-mdpi"/>
-        <splash src="res/android/screen/4e94032e4895d1d33c347755d9c5db25.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/c925464e7ca4cb2ea70c3308b2f62502.png" density="port-hdpi"/>
+        <splash src="res/android/screen/f611a426e2420f5258c369f1b7c91a39.png" density="port-ldpi"/>
+        <splash src="res/android/screen/4c988872ce73adf0c912ee035fd195d1.png" density="port-mdpi"/>
+        <splash src="res/android/screen/1a7a52f630f15b3324cade2526e2f7ac.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
